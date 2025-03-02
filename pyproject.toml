@@ -1,0 +1,7 @@
+[project]
+name = "holdingcompanydb"
+version = "0.1.0"
+description = "Basic MVC for holding company database"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
